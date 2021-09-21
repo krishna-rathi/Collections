@@ -9,9 +9,10 @@ public class StackEx {
  
         // Use push() to add elements into the Stack
         stack.push("Welcome");
-        stack.push("To");
-        stack.push("Newton");
-        stack.push("School");
+        stack.push("to");
+        stack.push("my");
+        stack.push("First");
+        stack.push("Stack");
  
         // Displaying the Stack
         System.out.println("Initial Stack: " + stack);
